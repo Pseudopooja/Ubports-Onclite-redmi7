@@ -40,8 +40,7 @@ Bugs:
 Fingerprint
 
 Warning:                                                           
-Charging your smartphone you may not see the charging icon                           
-but the smartphone is charging and the battery charge percentage increases                      
+Although, while charging your smartphone, you may not see the charging icon when the smartphone is charging and the battery charge percentage increases.                      
 
 Download:                                                                                         
 Halium-boot: https://drive.google.com/file/d/1PrO0lrx6ihIpW0c0d4SWQN2Z46SEaRzi/view?usp=sharing                                        
